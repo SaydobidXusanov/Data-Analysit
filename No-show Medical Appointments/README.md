@@ -1,7 +1,7 @@
 # Investigate a Dataset - No-show appointments
 ## by Saydobid Khusanov
 
-This project includes investigating a dataset of no-show medical appointments. The following questions were posed for analysis, and the corresponding conclusions were gained.
+This project includes investigating a dataset of 100k medical appointments in Brazil. The following questions were posed for analysis, and the corresponding conclusions were gained.
 
 ## Conclusions
 
