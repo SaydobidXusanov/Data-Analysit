@@ -11,6 +11,8 @@ Moreover, I also calculated the same trend in the global range starting from the
  
 4. Finally, I visualized the outcomes using the required line chart in Excel.
 
+![5-year-moving-average](https://github.com/SaydobidXusanov/Data-Analyst/blob/main/Explore-Weather-Trends/5%20Year%20Moving%20Average%20Temperature.png)
+
 5. My observations:
 *	According to the given data, the 5-year moving average temperature of the Tashkent city has always been higher than the global one for about 2º C during the period of 1836-2012.
 *	It is noticeable that both trends have gradually risen over the period.
