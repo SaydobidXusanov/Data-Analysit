@@ -9,9 +9,9 @@ My goal was to work through this notebook to help the company understand if they
 * Perhaps run the experiment longer to make their decision.
 
 ## Analysis Steps
-Part I - Probability
-Part II - A/B Test
-Part III - Regression
+Part I - Probability  
+Part II - A/B Test  
+Part III - Regression  
 
 ## Conclusion
 After going through multiple steps of in-depth analysis, the following conclusion was drawn:
