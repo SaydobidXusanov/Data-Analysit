@@ -1,7 +1,7 @@
 # Data-Analyst
 This repository includes my personal project solutions on Udacity's Data Analyst Nanodegree program. The course contains the following **five** final projects, and it enables choosing datasets. Here are my projects:
 
-* Explore Weather Trends
+* [Explore Weather Trends](https://github.com/SaydobidXusanov/Data-Analyst/tree/main/Explore-Weather-Trends)
 * No-show Medical Appointments
 * Practical Statistics: A/B Testing
 * Data Wrangling: X (formerly Twitter) WeRateDogs Reviews
